@@ -2,7 +2,7 @@
     "name": "com.harmoneyes.sdk",
     "displayName": "HarmonEyes SDK",
     "version": "3.4.0",
-    "unity": "2022.3",
+    "unity": "6000.0",
     "description": "HarmonEyes SDK",
     "keywords": [
         "harmoneyes",
