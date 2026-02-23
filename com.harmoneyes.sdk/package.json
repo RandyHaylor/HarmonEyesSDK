@@ -18,11 +18,6 @@
     },
     "samples": [
         {
-            "displayName": "EyeTracking Common",
-            "description": "Common eye tracking scripts to interact with the HarmonEyes SDK",
-            "path": "Samples~/EyeTracking Common"
-        },
-        {
             "displayName": "Oculus Sample",
             "description": "A simple oculus sample scene where you can highlight cubes by looking at them and see the eye tracking response",
             "path": "Samples~/OculusExample"
