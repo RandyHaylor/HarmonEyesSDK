@@ -11,7 +11,7 @@
     "dependencies": {
         "com.unity.textmeshpro": "3.0.6",
         "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "com.unity.xr.meta-openxr": "1.0.4",
+        "com.unity.xr.meta-openxr": "2.0.1",
         "com.unity.xr.interaction.toolkit": "2.5.4"
     },
     "author": {
